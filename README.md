@@ -1,2 +1,2 @@
 # AutoHotkey
-it will be uploaded only video files for studying AutoHotkey
+This script is to make playing game easy.
